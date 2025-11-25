@@ -49,3 +49,11 @@ project-folder/
 ├── sstf_graph.png
 ├── scan_graph.png
 └── cscan_graph.png
+
+
+
+
+
+Clone the repository
+```bash
+git clone https://github.com/Isaiahpromax-hub/I-O-disk-scheduler-.git
