@@ -4,6 +4,12 @@ This project was developed as part of the **Capstone Project – Operating Syste
 
 ---
 
+# Project Objectives 
+ 1. Describe disk geometry and I/O scheduling algorithms (SSTF, SCAN, C-SCAN).
+ 2. Implement FCFS, SSTF, and SCAN algorithms in a simulator.
+ 3. Compare algorithm performance and design a workload that highlights the
+ starvation problem in SSTF.
+
 # Project Description
 This simulator models how different disk I/O scheduling algorithms handle multiple disk access requests.  
 Disk scheduling affects:
@@ -49,9 +55,6 @@ project-folder/
 ├── sstf_graph.png
 ├── scan_graph.png
 └── cscan_graph.png
-
-
-
 
 
 Clone the repository
